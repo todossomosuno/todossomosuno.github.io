@@ -292,7 +292,6 @@ section {
 }
 
 .about .about-content .right a {
-    display: none;
     font-weight: 600;
     display: inline-block;
     background: var(--color-azul);
